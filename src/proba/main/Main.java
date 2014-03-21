@@ -9,5 +9,8 @@ public class Main {
 		masik.fgv(pr); //15-re módosítja
 		System.out.println(pr.getI());
 		System.out.println(pr.c);
+		
+		int g = 25;
+		System.out.println("Uj szöveg "+g);
 	}
 }
