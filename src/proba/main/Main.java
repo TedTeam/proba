@@ -12,5 +12,9 @@ public class Main {
 		
 		int g = 25;
 		System.out.println("Uj szöveg "+g);
+		
+		int f = 10;
+		f=35;
+		
 	}
 }
